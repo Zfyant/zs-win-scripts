@@ -1,7 +1,5 @@
 # README - Cap Windsurf RAM usage
 
- - Note: MD files can be parsed nice for both human & code, which is how you see it now. Find a nice MD parsing extension in your browser to view a cleaner version of this README.md.
-
 ## Requirements
  - 1. Downloading & Installing 3rd party zipped software `Procgov`
  - 2. Limited know-how of using a text editor to write a small script
